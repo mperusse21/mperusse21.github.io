@@ -28,7 +28,7 @@ nav {
 }
 
 nav a {
-  color: #000; /* White text */
+  color: #000; 
   font-size: 1.2rem;
   font-weight: 500;
   position: relative;
@@ -40,7 +40,7 @@ nav a::after {
   position: absolute;
   width: 0;
   height: 2px;
-  background-color: #0077b5; /* Teal underline */
+  background-color: #0077b5; 
   bottom: -5px;
   left: 0;
   transition: width 0.3s ease;
